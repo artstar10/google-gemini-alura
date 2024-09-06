@@ -36,7 +36,10 @@ Projeto desenvolvido no curso Alura + Google
 [![Gmail Badge](https://img.shields.io/badge/-artstar10jobs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME](https://img.shields.io/github/followers/artstar10?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
+## 🚀 Projeto em Funcionamento
 
+O projeto está disponível online e pode ser visualizado no seguinte link: [Google Gemini](https://google-gemini-arthur.vercel.app/). 
+Sinta-se à vontade para explorar o funcionamento do projeto diretamente no site.
 
 
 
