@@ -17,6 +17,7 @@ Projeto desenvolvido no curso Alura + Google
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
   
 **Ferramentas de Desenvolvimento**
 
@@ -38,13 +39,7 @@ Projeto desenvolvido no curso Alura + Google
 
 ## 🚀 Projeto em Funcionamento
 
-O projeto está disponível online e pode ser visualizado no seguinte link: [Google Gemini](https://google-gemini-arthur.vercel.app/). 
-Sinta-se à vontade para explorar o funcionamento do projeto diretamente no site.
+O projeto está disponível online e o deploy foi realizado no Vercel. Você pode visualizar o projeto funcionando no seguinte link: [Google Gemini](https://google-gemini-arthur.vercel.app/).
 
-
-
-
-
-
-
+![Vercel](https://img.shields.io/badge/deploy%20status-🚀%20live-brightgreen)
 
